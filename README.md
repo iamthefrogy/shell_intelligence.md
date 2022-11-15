@@ -1,5 +1,5 @@
 # Collection of my Linux Command List
-I often Google and Stakeoverflow silly things. I was tired one day and created this list so I don't have to Google everytime.
+I often Google and Stakeoverflow silly things sometimes almost everytime I need the same things. I was tired one day and created this list so I don't have to Google everytime.
 
 Find all types of files using some extension and move them to the parent folder from any recursive folder.
 ```sh
